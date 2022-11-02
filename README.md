@@ -8,10 +8,10 @@ Instalar y configurar Jenkins
 Actividad 1
 
 Tomando como base el repositorio https://github.com/vero0311/calculator
-1. Crear un job que haga lo siguiente:
-1.1. Descargue el proyecto de la rama master
-1.2. Compile el proyecto
-1.3. Genere el archivo .jar del proyecto
+- 1. Crear un job que haga lo siguiente:
+- 1.1. Descargue el proyecto de la rama master
+- 1.2. Compile el proyecto
+- 1.3. Genere el archivo .jar del proyecto
 
 Actividad 2
 
