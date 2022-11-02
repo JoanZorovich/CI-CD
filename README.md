@@ -15,7 +15,7 @@ Tomando como base el repositorio https://github.com/vero0311/calculator
 
 Actividad 2
 
-2. Crear un segundo job que haga lo siguiente:
-2.1 Tomar la build creada en el anterior job (En este deben de estar ubicados en la carpeta donde se generó la build)
-2.2 ejecutar el comando java-jar NOMBRE_DEL_ARCHIVO.jar usando la build generada.
+- 2. Crear un segundo job que haga lo siguiente:
+- 2.1 Tomar la build creada en el anterior job (En este deben de estar ubicados en la carpeta donde se generó la build)
+- 2.2 ejecutar el comando java-jar NOMBRE_DEL_ARCHIVO.jar usando la build generada.
 
